@@ -48,7 +48,7 @@ I am Victor Almeida. I'm currently working developing mobile apps with React Nat
 - Application (internal for workshops audience) "Totem PETRONAS" for a questionnaire on customer experience at the PETRONAS presentation booths.
 - Application (internal) "ProPricing" with QR Code and barcode reading, as well as real-time location
 - Application (internal) "PETRONAS Security" for registration and questionnaire of factory visitors.
-- Aplicativo (interno) "PDF/Manual PETRONAS" para consulta do manual PETRONAS em PDF
+- Application (internal) "PDF/PETRONAS Manual" to consult the PETRONAS manual in PDF
 - Consultancy for publishing applications on the Apple Store
 - more...
 
