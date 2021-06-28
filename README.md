@@ -37,7 +37,7 @@ I am Victor Almeida. I'm currently working developing mobile apps with React Nat
 
 ## 💻 I've worked on company projects:
 
-### [![BANCO DO BRASIL](https://img.shields.io/badge/BANCO%20DO%20BRASIL-f8d116?style=flat-square&link=https://www.pli-petronas.com)](https://www.pli-petronas.com)
+### [![BANCO DO BRASIL](https://img.shields.io/badge/BANCO%20DO%20BRASIL-f8d116?style=flat-square&link=https://www.bb.com.br)](https://www.bb.com.br)
 
 - I worked on the application's insurance functionality for the company BrasilSeg.
 - Direct contribution to Banco do Brasil projects. I was also able to participate in some documentation.
